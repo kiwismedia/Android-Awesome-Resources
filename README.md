@@ -14,3 +14,17 @@
 - [Wheel Progress Dialog:](https://github.com/tcking/WheelProgressDialog) Progress dialog using wheel style in android
 - [Android Progress Dialog:](https://github.com/PhanVanLinh/AndroidProgressDialog) A GitHub Repo where you will explore the implementation of Android Progress Dialog
 - [Retrosheet](https://github.com/theapache64/retrosheet): Turn Google Spreadsheet to JSON endpoint (for Android and JVM) for FREE (100%)
+
+
+# Blogs for Android Tutorials
+
+- [Native Mobile Bits](https://medium.com/native-mobile-bits)
+- [ProAndroidDev](https://proandroiddev.com/)
+- [Android Developers](https://medium.com/androiddevelopers)
+- [Android Developers Blog](https://android-developers.googleblog.com/)
+- [Android Weekly](https://androidweekly.net/)
+- [AndroidPub](https://android.jlelse.eu/)
+- [AndroidHive](https://www.androidhive.info/)
+- [Jeron Mols](https://jeroenmols.com/blog/)
+- [Styling Android](https://blog.stylingandroid.com/)
+
