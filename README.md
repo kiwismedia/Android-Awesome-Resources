@@ -27,4 +27,5 @@
 - [AndroidHive](https://www.androidhive.info/)
 - [Jeron Mols](https://jeroenmols.com/blog/)
 - [Styling Android](https://blog.stylingandroid.com/)
+- [Mindorks](https://blog.mindorks.com/)
 
