@@ -1,5 +1,4 @@
-![Hero Image](https://camo.githubusercontent.com/55082c82a730c149269ad5e026ee52ed43bca012556c4f002ec4bb7c2be2de96/68747470733a2f2f692e6962622e636f2f644733435a34422f53637265656e73686f742d32312e706e67)
-# Android-Awesome-Library
+![Hero Image](https://i.ibb.co/2YNrcCF/Android-Repo-banner1.png)
 
 - [Android Guides(Extensive Open-Source Guides for Android Developers)](https://github.com/codepath/android_guides)
 - [Android Best Practices(Do's and Don'ts for Android development, by Futurice developers)](https://github.com/futurice/android-best-practices)
