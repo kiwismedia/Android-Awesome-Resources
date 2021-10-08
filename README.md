@@ -118,4 +118,5 @@
 - [Jeron Mols](https://jeroenmols.com/blog/)
 - [Styling Android](https://blog.stylingandroid.com/)
 - [Mindorks](https://blog.mindorks.com/)
+- [Retrofit Tutorial](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 
 
